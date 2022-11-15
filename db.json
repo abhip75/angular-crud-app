@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Green Apple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 450,
+      "comment": "This is not fresh!!!!",
+      "date": "2022-11-14T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Grapes",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 560,
+      "comment": "fresh fruit!!",
+      "date": "2022-11-14T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Headphones",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 850,
+      "comment": "wohhooo!!",
+      "date": "2022-11-14T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
